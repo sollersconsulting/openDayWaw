@@ -1,5 +1,5 @@
-# wdi2017
-Warszawskie Dni Informatyki
+# Sollers OpenDay Warsaw 2017
+Dzień otwarty w biurze.
 
 ## Gdzie Java nie może, tam Gosu pośle. Alternatywne języki JVM
 
